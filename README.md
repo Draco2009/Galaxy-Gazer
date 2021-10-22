@@ -7,4 +7,4 @@
 <a href="https://discord.com/users/889455918650097665">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/889455918650097665.png" />
 </a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fudge-Fish&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Galaxy-Gazer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
